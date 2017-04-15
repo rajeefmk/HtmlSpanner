@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/rjhashlearn/hlnow/hashlearn-android-app/vendor/HtmlSpanner/src/main/assets"/><source path="/home/rjhashlearn/hlnow/hashlearn-android-app/vendor/HtmlSpanner/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/rjhashlearn/hlnow/hashlearn-android-app/vendor/HtmlSpanner/src/debug/assets"/></dataSet></merger>
